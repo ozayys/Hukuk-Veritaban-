@@ -15,3 +15,15 @@ Dava Durumu Güncellemeleri: Dava durumunu güncelleyebilir ve davalarla ilgili 
 Proje kapsamında, veritabanı Java ile bağlantılı olarak oluşturulmuş ve Java'da bir grafik kullanıcı arayüzü (GUI) ile yönetim ekranları geliştirilmiştir. Kullanıcı dostu arayüz sayesinde, avukatlar kolaylıkla sisteme giriş yapabilir ve işlemlerini gerçekleştirebilirler. Uygulamanın mevcut sürümü, geliştirme aşamasında olup ilerleyen dönemlerde bir tam işlevsel uygulama (application) haline getirilmesi planlanmaktadır. Bu yapının tamamlanmasıyla, avukatlar için kapsamlı bir hukuk yönetim sistemi sunulacaktır.
 
 ![image](https://github.com/user-attachments/assets/f4c4c134-c830-4283-afd8-c97f08c1d5eb)
+
+
+Relations:
+
+Avukat - Müvekkil: Her avukat birden fazla müvekkile sahip olabilir, her müvekkilin de birden fazla avukatı olabilir. 
+(M-N)
+
+Müvekkil - Dosya: Her müvekkilin birden fazla dosyası olabilir, her dosya bir müvekkile aittir. 
+(1-N)
+
+Dosya - Belge: Her dosya birden fazla belgeye sahip olabilir, her belge bir dosyaya aittir. 
+(1-N)
