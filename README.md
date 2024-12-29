@@ -1,5 +1,6 @@
 ![image](https://github.com/user-attachments/assets/59f4cc8e-c3c8-4fcf-bef8-2801629315d6)
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/0fd287c7-ad89-4597-b12f-8400ed0ac1d7)
+
 
 **1\. Varlıklar**
 
