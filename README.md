@@ -2,6 +2,9 @@
 ![image](https://github.com/user-attachments/assets/0fd287c7-ad89-4597-b12f-8400ed0ac1d7)
 
 
+TUNAHAN ÖZTÜRK , 225260009  
+DEVRAN ALİ ÖZAY , 225260035   
+
 **1\. Varlıklar**
 
 Varlıklar, her tabloyu temsil eder:
