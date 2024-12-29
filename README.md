@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/59f4cc8e-c3c8-4fcf-bef8-2801629315d6)
+![Uploading image.png…]()
 
 **1\. Varlıklar**
 
